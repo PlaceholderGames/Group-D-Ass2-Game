@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-Time of this report: 1/25/2018, 13:34:52
-       Machine name: TRJ208-10
+Time of this report: 1/26/2018, 14:15:05
+       Machine name: TRJ208-21
    Operating System: Windows 7 Enterprise 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_ldr.170913-0600)
            Language: English (Regional Setting: English)
 System Manufacturer: Viglen
@@ -11,7 +11,7 @@ System Manufacturer: Viglen
           Processor: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
              Memory: 32768MB RAM
 Available OS Memory: 32608MB RAM
-          Page File: 7119MB used, 58096MB available
+          Page File: 7719MB used, 57493MB available
         Windows Dir: C:\Windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
@@ -233,7 +233,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 146.1 GB
+ Free Space: 164.6 GB
 Total Space: 467.9 GB
 File System: NTFS
       Model: HFS512G32MNB-2200A ATA Device
@@ -245,38 +245,6 @@ File System: NTFS
 --------------
 System Devices
 --------------
-     Name: Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D
-Device ID: PCI\VEN_8086&DEV_8C2D&SUBSYS_85341043&REV_05\3&11583659&0&D0
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor E3-1200 v3/4th Gen Core processor PCI Express x16 Controller - 0C01
-Device ID: PCI\VEN_8086&DEV_0C01&SUBSYS_85341043&REV_06\3&11583659&0&08
-   Driver: n/a
-
-     Name: Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26
-Device ID: PCI\VEN_8086&DEV_8C26&SUBSYS_85341043&REV_05\3&11583659&0&E8
-   Driver: n/a
-
-     Name: Intel(R) 4th Gen Core processor DRAM Controller - 0C00
-Device ID: PCI\VEN_8086&DEV_0C00&SUBSYS_85341043&REV_06\3&11583659&0&00
-   Driver: n/a
-
-     Name: Intel(R) 8 Series/C220 Series SMBus Controller - 8C22
-Device ID: PCI\VEN_8086&DEV_8C22&SUBSYS_85341043&REV_05\3&11583659&0&FB
-   Driver: n/a
-
-     Name: Intel(R) HD Graphics 4600
-Device ID: PCI\VEN_8086&DEV_0412&SUBSYS_85341043&REV_06\3&11583659&0&10
-   Driver: n/a
-
-     Name: High Definition Audio Controller
-Device ID: PCI\VEN_8086&DEV_8C20&SUBSYS_85761043&REV_05\3&11583659&0&D8
-   Driver: n/a
-
-     Name: NVIDIA GeForce GTX 970
-Device ID: PCI\VEN_10DE&DEV_13C2&SUBSYS_29743842&REV_A1\4&3834D97&0&0008
-   Driver: n/a
-
      Name: Intel(R) Q87 LPC Controller - 8C4E
 Device ID: PCI\VEN_8086&DEV_8C4E&SUBSYS_85341043&REV_05\3&11583659&0&F8
    Driver: n/a
@@ -307,6 +275,38 @@ Device ID: PCI\VEN_8086&DEV_8C31&SUBSYS_85341043&REV_05\3&11583659&0&A0
 
      Name: High Definition Audio Controller
 Device ID: PCI\VEN_8086&DEV_0C0C&SUBSYS_85341043&REV_06\3&11583659&0&18
+   Driver: n/a
+
+     Name: Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D
+Device ID: PCI\VEN_8086&DEV_8C2D&SUBSYS_85341043&REV_05\3&11583659&0&D0
+   Driver: n/a
+
+     Name: Intel(R) Xeon(R) processor E3-1200 v3/4th Gen Core processor PCI Express x16 Controller - 0C01
+Device ID: PCI\VEN_8086&DEV_0C01&SUBSYS_85341043&REV_06\3&11583659&0&08
+   Driver: n/a
+
+     Name: Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26
+Device ID: PCI\VEN_8086&DEV_8C26&SUBSYS_85341043&REV_05\3&11583659&0&E8
+   Driver: n/a
+
+     Name: Intel(R) 4th Gen Core processor DRAM Controller - 0C00
+Device ID: PCI\VEN_8086&DEV_0C00&SUBSYS_85341043&REV_06\3&11583659&0&00
+   Driver: n/a
+
+     Name: Intel(R) 8 Series/C220 Series SMBus Controller - 8C22
+Device ID: PCI\VEN_8086&DEV_8C22&SUBSYS_85341043&REV_05\3&11583659&0&FB
+   Driver: n/a
+
+     Name: Intel(R) HD Graphics 4600
+Device ID: PCI\VEN_8086&DEV_0412&SUBSYS_85341043&REV_06\3&11583659&0&10
+   Driver: n/a
+
+     Name: High Definition Audio Controller
+Device ID: PCI\VEN_8086&DEV_8C20&SUBSYS_85761043&REV_05\3&11583659&0&D8
+   Driver: n/a
+
+     Name: NVIDIA GeForce GTX 970
+Device ID: PCI\VEN_10DE&DEV_13C2&SUBSYS_29743842&REV_A1\4&3834D97&0&0008
    Driver: n/a
 
 ------------------
