@@ -1,0 +1,945 @@
+﻿Log file open, 02/01/18 14:34:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectEspionage
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1960926943) SRandInit(1960926943).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151740
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.01-14.34.35:087][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-14.34.35:087][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.01-14.34.35:103][  0]LogInit: Computer: TRJ208-10
+[2018.02.01-14.34.35:103][  0]LogInit: User: 17093414
+[2018.02.01-14.34.35:103][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.01-14.34.35:103][  0]LogInit: High frequency timer resolution =3.507705 MHz
+[2018.02.01-14.34.35:103][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2018.02.01-14.34.35:103][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.01-14.34.35:103][  0]LogMemory: Process Physical Memory: 274.15 MB used, 274.15 MB peak
+[2018.02.01-14.34.35:103][  0]LogMemory: Process Virtual Memory: 272.67 MB used, 272.67 MB peak
+[2018.02.01-14.34.35:103][  0]LogMemory: Physical Memory: 6469.78 MB used,  26139.21 MB free, 32608.99 MB total
+[2018.02.01-14.34.35:103][  0]LogMemory: Virtual Memory: 628.50 MB used,  26139.21 MB free, 8388608.00 MB total
+[2018.02.01-14.34.35:203][  0]LogInit: Using OS detected language (en-GB).
+[2018.02.01-14.34.35:203][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.01-14.34.35:205][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.02.01-14.34.35:558][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.01-14.34.35:558][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.01-14.34.35:558][  0]LogInit: Setting process to DPI aware
+[2018.02.01-14.34.35:561][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.01-14.34.35:561][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.01-14.34.35:561][  0]LogInit: Setting process to DPI aware
+[2018.02.01-14.34.35:728][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.01-14.34.35:751][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.02.01-14.34.35:751][  0]LogD3D11RHI:       4007/0/16048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.01-14.34.35:758][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.01-14.34.35:758][  0]LogD3D11RHI:       192/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.01-14.34.35:758][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.01-14.34.35:762][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.01-14.34.35:762][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.01-14.34.35:762][  0]LogWindows: EnumDisplayDevices:
+[2018.02.01-14.34.35:762][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.02.01-14.34.35:762][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.01-14.34.35:762][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.01-14.34.35:762][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.01-14.34.35:762][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.01-14.34.35:762][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.01-14.34.35:763][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.01-14.34.35:763][  0]LogWindows:    7. 'RDPDD Chained DD' (P:0 D:0)
+[2018.02.01-14.34.35:763][  0]LogWindows:    8. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.02.01-14.34.35:763][  0]LogWindows:    9. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.02.01-14.34.35:763][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.02.01-14.34.35:763][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.02.01-14.34.35:763][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.02.01-14.34.35:763][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.02.01-14.34.35:763][  0]LogRHI: Texture pool is 2805 MB (70% of 4007 MB)
+[2018.02.01-14.34.35:771][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.01-14.34.35:785][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.01-14.34.35:786][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Intermediate/Shaders/WorkingDirectory/5432/).
+[2018.02.01-14.34.35:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/17093414/AppData/Local/Temp/UnrealShaderWorkingDir/448D0BF8414657F4FCA76F8C43222E56/'.
+[2018.02.01-14.34.35:786][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.01-14.34.36:530][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.01-14.34.36:570][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.01-14.34.36:610][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.01-14.34.36:650][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.01-14.34.36:690][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.01-14.34.36:730][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.01-14.34.36:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.01-14.34.36:810][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.01-14.34.36:842][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.01-14.34.36:880][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.01-14.34.36:918][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.01-14.34.36:955][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.01-14.34.36:993][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.01-14.34.37:031][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.01-14.34.37:106][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.01-14.34.37:106][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.01-14.34.37:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.01-14.34.37:177][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.01-14.34.37:253][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.01-14.34.37:279][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.01-14.34.37:317][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.01-14.34.37:364][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.01-14.34.37:405][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.01-14.34.37:443][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.01-14.34.37:443][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.01-14.34.37:764][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.01-14.34.37:834][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/17093414/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-14.34.37:834][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/17093414/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.01-14.34.37:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.01-14.34.37:834][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.01-14.34.37:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.01-14.34.37:835][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.01-14.34.37:850][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.01-14.34.37:861][  0]LogDerivedDataCache: Using Local data cache path C:/Users/17093414/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.01-14.34.37:869][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.01-14.34.37:870][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.01-14.34.37:870][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-14.34.37:870][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-14.34.38:173][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-14.34.38:423][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.01-14.34.38:451][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.01-14.34.38:451][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.01-14.34.38:451][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.01-14.34.38:451][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.01-14.34.38:451][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.01-14.34.38:472][  0]LogNetVersion: ProjectEspionage , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 40603988)
+[2018.02.01-14.34.38:604][  0]LogAssetRegistry: FAssetRegistry took 0.0242 seconds to start up
+[2018.02.01-14.34.39:088][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.103064 seconds
+[2018.02.01-14.34.39:092][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.01-14.34.39:093][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.01-14.34.39:093][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.01-14.34.39:129][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.01-14.34.41:137][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.01-14.34.41:169][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.01-14.34.41:169][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.41:654][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.01-14.34.41:964][  0]SourceControl: Source control is disabled
+[2018.02.01-14.34.41:964][  0]SourceControl: Source control is disabled
+[2018.02.01-14.34.42:000][  0]SourceControl: Source control is disabled
+[2018.02.01-14.34.42:035][  0]SourceControl: Source control is disabled
+[2018.02.01-14.34.42:588][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.01-14.34.42:775][  0]LogOcInput: OculusInput pre-init called
+[2018.02.01-14.34.42:995][  0]LogEngine: Initializing Engine...
+[2018.02.01-14.34.42:996][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.01-14.34.43:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.01-14.34.43:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.01-14.34.43:289][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.01-14.34.43:296][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.34.43:313][  0]LogInit: FAudioDevice initialized.
+[2018.02.01-14.34.43:385][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/17093414/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-14.34.43:395][  0]LogInit: Texture streaming: Enabled
+[2018.02.01-14.34.43:473][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.01-14.34.43:570][  0]LogInit: Transaction tracking system initialized
+[2018.02.01-14.34.43:784][  0]BlueprintLog: New page: Editor Load
+[2018.02.01-14.34.44:391][  0]LocalizationService: Localization service is disabled
+[2018.02.01-14.34.44:902][  0]LogConsoleResponse: Display: 
+[2018.02.01-14.34.45:039][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.01-14.34.45:039][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.01-14.34.45:039][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.01-14.34.45:414][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' took 0.04s
+[2018.02.01-14.34.45:914][  0]SourceControl: Source control is disabled
+[2018.02.01-14.34.45:914][  0]Cmd: MAP LOAD FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-14.34.45:919][  0]LightingResults: New page: Lighting Build
+[2018.02.01-14.34.45:947][  0]MapCheck: New page: Map Check
+[2018.02.01-14.34.45:947][  0]LightingResults: New page: Lighting Build
+[2018.02.01-14.34.46:279][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.01-14.34.46:279][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.01-14.34.46:279][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.01-14.34.46:294][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.01-14.34.46:294][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.01-14.34.46:294][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.01-14.34.46:296][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.01-14.34.46:296][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.01-14.34.46:296][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.01-14.34.46:296][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.01-14.34.46:347][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.01-14.34.46:347][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.01-14.34.46:347][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.01-14.34.46:347][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.01-14.34.46:549][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.01-14.34.46:557][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-14.34.46:570][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-14.34.46:607][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.049ms to complete.
+[2018.02.01-14.34.46:607][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.693
+[2018.02.01-14.34.46:719][  0]LogCollectionManager: Loaded 0 collections in 0.004712 seconds
+[2018.02.01-14.34.46:787][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/' took 0.01s
+[2018.02.01-14.34.46:787][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/17093414/Collections/' took 0.01s
+[2018.02.01-14.34.46:787][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/' took 0.01s
+[2018.02.01-14.34.46:787][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.01-14.34.46:794][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2363 classes and 519 folders.
+[2018.02.01-14.34.46:840][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.01-14.34.46:874][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.01-14.34.46:914][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.01-14.34.46:928][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-14.34.46:931][  0]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.01-14.34.46:935][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.01-14.34.47:022][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2018.02.01-14.34.47:215][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.01-14.34.47:215][  0]LogLoad: (Engine Initialization) Total time: 14.15 seconds
+[2018.02.01-14.34.47:215][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.01-14.34.47:215][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.01-14.34.47:215][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.01-14.34.47:240][  0]LogAssetRegistry: Asset discovery search completed in 8.6568 seconds
+[2018.02.01-14.34.47:242][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.01-14.34.47:242][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2018.02.01-14.34.47:242][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:242][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/', and we were unable to create a new request.
+[2018.02.01-14.34.47:242][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:243][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/17093414/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:243][  0]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:246][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.01-14.34.47:303][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-14.34.47:493][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:493][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/', and we were unable to create a new request.
+[2018.02.01-14.34.47:494][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/17093414/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:494][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/17093414/Collections/', and we were unable to create a new request.
+[2018.02.01-14.34.47:494][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.02.01-14.34.47:494][  2]LogDirectoryWatcher: A directory notification failed for 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/', and we were unable to create a new request.
+[2018.02.01-14.34.48:245][ 73]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-14.34.54:633][791]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-14.34.55:261][791]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.34.55:291][791]Cmd: MAP LOAD FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-14.34.55:291][791]LightingResults: New page: Lighting Build
+[2018.02.01-14.34.55:292][791]LoadErrors: New page: Loading map: TestMap.umap
+[2018.02.01-14.34.55:293][791]MapCheck: New page: Map Check
+[2018.02.01-14.34.55:293][791]LightingResults: New page: Lighting Build
+[2018.02.01-14.34.55:312][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-14.34.55:346][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-14.34.55:390][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.109ms to complete.
+[2018.02.01-14.34.55:390][791]LogFileHelpers: Loading map 'TestMap' took 0.099
+[2018.02.01-14.35.34:061][187]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.01-14.35.47:989][696]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-14.35.48:059][696]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.02.01-14.35.48:837][696]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-14.36.10:531][465]BlueprintLog: New page: Compile Door4
+[2018.02.01-14.36.11:119][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Door4" FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door4.uasset" SILENT=true
+[2018.02.01-14.36.11:302][479]LogSavePackage: Save=132.20ms
+[2018.02.01-14.36.11:302][479]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Door472C5099643BEF4408A06CF897073E668.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door4.uasset'
+[2018.02.01-14.36.11:311][479]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door4.uasset
+[2018.02.01-14.36.17:769][176]LogEditorViewport: Clicking on Actor (LMB): BPKeyDespawn_C (BPKeyDespawn3)
+[2018.02.01-14.36.39:249][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.40:560][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.41:111][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.41:605][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.42:406][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.42:754][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.43:152][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.43:570][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.43:926][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.44:282][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.44:698][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.45:014][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-14.36.47:451][448]LogEditorActor: Deleted Actor: BPKeyDespawn_C
+[2018.02.01-14.36.47:469][448]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.02.01-14.36.48:415][561]LogEditorViewport: Clicking on Actor (LMB): BPOpenDoor5_C (BPOpenDoor5)
+[2018.02.01-14.37.10:550][503]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-14.37.28:971][ 30]BlueprintLog: New page: Compile Door5
+[2018.02.01-14.37.29:548][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Door5" FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door5.uasset" SILENT=true
+[2018.02.01-14.37.30:032][ 51]LogSavePackage: Save=132.94ms
+[2018.02.01-14.37.30:032][ 51]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Door510C554DA4FA9D1138679CC9CC6C7A8C6.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door5.uasset'
+[2018.02.01-14.37.30:040][ 51]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/Door5.uasset
+[2018.02.01-14.37.32:726][256]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-14.38.13:758][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.02.01-14.38.15:296][ 70]LogEditorViewport: Clicking on Actor (LMB): Door4_C (Door4)
+[2018.02.01-14.38.18:596][427]LogEditorViewport: Clicking on Actor (LMB): Door5_C (Door5)
+[2018.02.01-14.38.23:549][971]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-14.38.23:690][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.38.23:691][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-14.38.23:691][971]PIE: New page: PIE session: TestMap (1 Feb 2018 14:38:23)
+[2018.02.01-14.38.23:691][971]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-14.38.23:711][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020045s)
+[2018.02.01-14.38.23:712][971]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.38.23:712][971]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.02.01-14.38.23:713][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.021478s)
+[2018.02.01-14.38.23:737][971]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.38.23:744][971]LogInit: FAudioDevice initialized.
+[2018.02.01-14.38.23:783][971]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-14.38.23:787][971]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-14.38.23
+[2018.02.01-14.38.23:788][971]LogWorld: Bringing up level for play took: 0.003826
+[2018.02.01-14.38.23:834][971]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.02.01-14.38.23:836][971]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.64
+[2018.02.01-14.38.23:836][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.41.28:958][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.41.28:990][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.41.35:387][877]LogEditorViewport: Clicking on Actor (LMB): BPSpawnFinalKey_C (BPSpawnFinalKey)
+[2018.02.01-14.41.53:048][166]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TPFinalKey)
+[2018.02.01-14.44.38:439][391]BlueprintLog: New page: Compile BPHackingTerminal2
+[2018.02.01-14.44.39:312][420]LogSavePackage: Save=144.61ms
+[2018.02.01-14.44.39:312][420]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal2ED8BC6DC40E5CFD59C0CCDB8059D7FA1.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset'
+[2018.02.01-14.44.39:319][420]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset
+[2018.02.01-14.44.58:452][915]LogEditorTransaction: Undo Move Nodes
+[2018.02.01-14.44.58:834][939]LogEditorTransaction: Undo Create Pin Link
+[2018.02.01-14.44.59:307][972]LogEditorTransaction: Undo Move Node
+[2018.02.01-14.45.00:031][ 27]LogEditorTransaction: Undo Delete current selection
+[2018.02.01-14.45.00:562][ 65]LogEditorTransaction: Undo Delete current selection
+[2018.02.01-14.45.49:339][562]BlueprintLog: New page: Compile BPSpawnEndLevel
+[2018.02.01-14.45.50:709][639]LogSavePackage: Save=79.58ms
+[2018.02.01-14.45.50:709][639]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPSpawnEndLevel4442CFFD483393560F96D8A53CFEA74E.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset'
+[2018.02.01-14.45.50:717][639]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset
+[2018.02.01-14.45.51:990][733]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-14.45.56:924][ 95]BlueprintLog: New page: Compile BPSpawnEndLevel
+[2018.02.01-14.45.57:740][123]LogSavePackage: Save=79.91ms
+[2018.02.01-14.45.57:740][123]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPSpawnEndLevel228B008F4D482E191C7D75BB59DFFEA7.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset'
+[2018.02.01-14.45.57:748][123]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset
+[2018.02.01-14.46.11:769][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-14.46.14:772][523]Cmd: DELETE
+[2018.02.01-14.46.14:772][523]Cmd: ACTOR DELETE
+[2018.02.01-14.46.14:776][523]LogEditorActor: Deleted Actor: BPHackingTerminal2_C
+[2018.02.01-14.46.14:795][523]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.02.01-14.46.15:866][651]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-14.46.15:881][651]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.46.15:882][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-14.46.15:882][651]PIE: New page: PIE session: TestMap (1 Feb 2018 14:46:15)
+[2018.02.01-14.46.15:882][651]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-14.46.15:902][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020590s)
+[2018.02.01-14.46.15:903][651]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.46.15:903][651]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.02.01-14.46.15:903][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.021551s)
+[2018.02.01-14.46.15:922][651]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.46.15:928][651]LogInit: FAudioDevice initialized.
+[2018.02.01-14.46.15:958][651]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-14.46.15:962][651]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-14.46.15
+[2018.02.01-14.46.15:962][651]LogWorld: Bringing up level for play took: 0.003535
+[2018.02.01-14.46.15:964][651]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.768
+[2018.02.01-14.46.15:964][651]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.46.17:623][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.46.17:652][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.46.25:858][746]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-14.46.25:874][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.46.25:874][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-14.46.25:874][746]PIE: New page: PIE session: TestMap (1 Feb 2018 14:46:25)
+[2018.02.01-14.46.25:874][746]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-14.46.25:891][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016521s)
+[2018.02.01-14.46.25:891][746]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.46.25:891][746]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.02.01-14.46.25:892][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.017539s)
+[2018.02.01-14.46.25:907][746]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.46.25:912][746]LogInit: FAudioDevice initialized.
+[2018.02.01-14.46.25:941][746]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-14.46.25:945][746]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-14.46.25
+[2018.02.01-14.46.25:945][746]LogWorld: Bringing up level for play took: 0.003722
+[2018.02.01-14.46.25:947][746]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.751
+[2018.02.01-14.46.25:947][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.47.01:311][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.47.01:343][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.47.29:911][640]BlueprintLog: New page: Compile BPHackingTerminal
+[2018.02.01-14.47.35:326][ 97]LogSavePackage: Save=149.82ms
+[2018.02.01-14.47.35:326][ 97]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal99C87CE64E465D6EBD6D27B5723040D2.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal.uasset'
+[2018.02.01-14.47.35:334][ 97]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal.uasset
+[2018.02.01-14.47.52:560][569]BlueprintLog: New page: Compile BPHackingTerminal2
+[2018.02.01-14.47.53:295][578]LogSavePackage: Save=150.22ms
+[2018.02.01-14.47.53:295][578]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal2EA25D0544DF30021DD62D3B3FE5249DC.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset'
+[2018.02.01-14.47.53:303][578]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset
+[2018.02.01-14.47.54:783][709]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-14.47.55:619][801]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-14.47.55:633][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.47.55:634][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-14.47.55:634][801]PIE: New page: PIE session: TestMap (1 Feb 2018 14:47:55)
+[2018.02.01-14.47.55:634][801]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-14.47.55:651][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016562s)
+[2018.02.01-14.47.55:651][801]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.47.55:651][801]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.02.01-14.47.55:652][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.017565s)
+[2018.02.01-14.47.55:670][801]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.47.55:676][801]LogInit: FAudioDevice initialized.
+[2018.02.01-14.47.55:706][801]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-14.47.55:710][801]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-14.47.55
+[2018.02.01-14.47.55:710][801]LogWorld: Bringing up level for play took: 0.003514
+[2018.02.01-14.47.55:712][801]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.516
+[2018.02.01-14.47.55:712][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.51.10:510][158]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1470.000 Y=-3667.000 Z=167.000] for [BPHackingTerminal2_C]
+[2018.02.01-14.51.28:766][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.51.28:795][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.51.42:508][681]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TPFinalKey)
+[2018.02.01-14.52.13:190][431]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-14.52.43:610][635]BlueprintLog: New page: Compile BPSpawnEndLevel
+[2018.02.01-14.52.44:866][701]LogSavePackage: Save=79.69ms
+[2018.02.01-14.52.44:866][701]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPSpawnEndLevel15598C8941B4EE6EBDFA83BA96E58E32.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset'
+[2018.02.01-14.52.44:874][701]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset
+[2018.02.01-14.52.55:296][516]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-14.52.55:313][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.52.55:313][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-14.52.55:313][516]PIE: New page: PIE session: TestMap (1 Feb 2018 14:52:55)
+[2018.02.01-14.52.55:313][516]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-14.52.55:331][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017796s)
+[2018.02.01-14.52.55:332][516]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-14.52.55:332][516]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.02.01-14.52.55:332][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.018748s)
+[2018.02.01-14.52.55:352][516]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-14.52.55:358][516]LogInit: FAudioDevice initialized.
+[2018.02.01-14.52.55:386][516]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-14.52.55:391][516]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-14.52.55
+[2018.02.01-14.52.55:391][516]LogWorld: Bringing up level for play took: 0.003960
+[2018.02.01-14.52.55:393][516]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.223
+[2018.02.01-14.52.55:393][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.55.46:298][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.55.46:329][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-14.57.33:909][870]LogEditorTransaction: Undo Move Node
+[2018.02.01-14.57.34:545][871]LogEditorTransaction: Undo Add Node
+[2018.02.01-14.57.35:413][926]LogEditorTransaction: Undo Move Node
+[2018.02.01-14.57.35:830][953]LogEditorTransaction: Undo Move Node
+[2018.02.01-14.57.36:359][989]LogEditorTransaction: Undo Break Pin Link
+[2018.02.01-14.59.01:680][293]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:682][293]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:704][294]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:706][294]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:723][295]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:725][295]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:742][296]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:744][296]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:760][297]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:763][297]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:780][298]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:782][298]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:799][299]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:801][299]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:820][300]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:837][301]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:839][301]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:855][302]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:857][302]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:874][303]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:876][303]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:893][304]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:895][304]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:912][305]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:929][306]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:931][306]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:949][307]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:966][308]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:968][308]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.01:986][309]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:004][310]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:023][311]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:041][312]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:060][313]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:078][314]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:095][315]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:097][315]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:114][316]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:116][316]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:134][317]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:152][318]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:170][319]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:188][320]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:206][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:224][322]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:243][323]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:261][324]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:280][325]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:298][326]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:316][327]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:334][328]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:353][329]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:371][330]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:389][331]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:407][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:426][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:444][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:464][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:482][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:501][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:519][338]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:538][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:556][340]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:575][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:592][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:593][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:595][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:612][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:615][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:633][344]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:651][345]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:671][346]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:690][347]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:708][348]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:728][349]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:747][350]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_419' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:765][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:785][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:804][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_425' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:824][354]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_427' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:842][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_429' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:861][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_431' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:880][357]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_433' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:898][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_435' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:916][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_437' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:918][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_439' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:937][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_441' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:957][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_443' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:975][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_445' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.02:993][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_447' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:011][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_449' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:030][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_451' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:048][366]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_453' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:067][367]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_455' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:086][368]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_457' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:104][369]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_459' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:122][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_461' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:141][371]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_463' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:160][372]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_465' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:179][373]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_467' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:197][374]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_469' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:216][375]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_471' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:235][376]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_473' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:253][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_475' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:271][378]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_477' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:291][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_479' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:309][380]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_481' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:327][381]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_483' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:345][382]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_485' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:364][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_487' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:384][384]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_489' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:402][385]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_491' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:420][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_493' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:440][387]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_495' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:457][388]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_497' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:459][388]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_499' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:476][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_501' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:479][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_503' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:497][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_505' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:515][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_507' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:534][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_509' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:552][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_511' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:568][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_513' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:570][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_515' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:588][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_517' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:606][396]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_519' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:624][397]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_521' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:643][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_523' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:662][399]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_525' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:682][400]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_527' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:700][401]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_529' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:719][402]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_531' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:737][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_533' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:756][404]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_535' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:774][405]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_537' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:792][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_539' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:810][407]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_541' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:828][408]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_543' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:846][409]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_545' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:864][410]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_547' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:882][411]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_549' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:901][412]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_551' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:919][413]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_553' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:937][414]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_555' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:956][415]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_557' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:975][416]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_559' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.03:994][417]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_561' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:013][418]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_563' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:030][419]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_565' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:032][419]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_567' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:050][420]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_569' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:070][421]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_571' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:088][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_573' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:106][423]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_575' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:125][424]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_577' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:143][425]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_579' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:161][426]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_581' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:180][427]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_583' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:200][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_585' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:218][429]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_587' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:237][430]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_589' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:256][431]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_591' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:274][432]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_593' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:293][433]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_595' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:311][434]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_597' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:330][435]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_599' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:348][436]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_601' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:366][437]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_603' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:384][438]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_605' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:402][439]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_607' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:421][440]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_609' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:439][441]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_611' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:457][442]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_613' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:477][443]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_615' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:495][444]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_617' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:514][445]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_619' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:533][446]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_621' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:553][447]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_623' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:571][448]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_625' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:589][449]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_627' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:608][450]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_629' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:626][451]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_631' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:643][452]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_633' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:646][452]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_635' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:662][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_637' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:665][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_639' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:683][454]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_641' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:701][455]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_643' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:720][456]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_645' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:739][457]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_647' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:758][458]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_649' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:777][459]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_651' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:795][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_653' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:813][461]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_655' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:833][462]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_657' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:851][463]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_659' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:871][464]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_661' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:889][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_663' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:908][466]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_665' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:926][467]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_667' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:945][468]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_669' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:963][469]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_671' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.04:983][470]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_673' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:001][471]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_675' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:019][472]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_677' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:037][473]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_679' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:055][474]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_681' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:073][475]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_683' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:091][476]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_685' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:109][477]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_687' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:126][478]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_689' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:145][479]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_691' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:163][480]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_693' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:181][481]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_695' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:198][482]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_697' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:216][483]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_699' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:234][484]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_701' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:253][485]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_703' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:270][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_705' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:288][487]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_707' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:306][488]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_709' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:324][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_711' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:342][490]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_713' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:360][491]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_715' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:378][492]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_717' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:397][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_719' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:415][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_721' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:434][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_723' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:451][496]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_725' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:469][497]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_727' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:487][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_729' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:506][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_731' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:524][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_733' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.05:542][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_735' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.01-14.59.13:563][923]BlueprintLog: New page: Compile GetKeyHUD
+[2018.02.01-14.59.14:107][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/GetKeyHUD" FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Character/GetKeyHUD.uasset" SILENT=true
+[2018.02.01-14.59.14:147][944]LogSavePackage: Save=34.69ms
+[2018.02.01-14.59.14:147][944]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/GetKeyHUD693F48EB40EF75BBB52A308D565529A5.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Character/GetKeyHUD.uasset'
+[2018.02.01-14.59.14:155][944]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Character/GetKeyHUD.uasset
+[2018.02.01-14.59.30:652][105]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-14.59.48:218][385]BlueprintLog: New page: Compile BPHackingTerminal2
+[2018.02.01-14.59.49:201][402]LogSavePackage: Save=162.15ms
+[2018.02.01-14.59.49:201][402]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal2A0B1CA7C4E4D8A665A6C12AB415F123F.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset'
+[2018.02.01-14.59.49:209][402]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset
+[2018.02.01-14.59.57:910][ 49]BlueprintLog: New page: Compile BPHackingTerminal2
+[2018.02.01-14.59.58:815][ 59]LogSavePackage: Save=164.68ms
+[2018.02.01-14.59.58:815][ 59]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal2A7B973A34DB0A753C1D256B5AE166BFD.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset'
+[2018.02.01-14.59.58:824][ 59]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset
+[2018.02.01-15.00.30:932][401]BlueprintLog: New page: Compile BPSpawnEndLevel
+[2018.02.01-15.00.31:833][433]LogSavePackage: Save=90.22ms
+[2018.02.01-15.00.31:833][433]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPSpawnEndLevelDFA7518544917FE9C8C5288D1044F209.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset'
+[2018.02.01-15.00.31:842][433]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset
+[2018.02.01-15.00.54:782][152]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-15.01.16:671][796]BlueprintLog: New page: Compile BPHackingTerminal2
+[2018.02.01-15.01.17:726][819]LogSavePackage: Save=175.31ms
+[2018.02.01-15.01.17:726][819]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPHackingTerminal2F86CFD76453A06C7D993DFB1C1A172BF.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset'
+[2018.02.01-15.01.17:736][819]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPHackingTerminal2.uasset
+[2018.02.01-15.01.19:556][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-15.01.19:582][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.01.19:583][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-15.01.19:583][977]PIE: New page: PIE session: TestMap (1 Feb 2018 15:01:19)
+[2018.02.01-15.01.19:583][977]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-15.01.19:601][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018477s)
+[2018.02.01-15.01.19:602][977]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-15.01.19:602][977]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.02.01-15.01.19:602][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.019488s)
+[2018.02.01-15.01.19:622][977]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-15.01.19:629][977]LogInit: FAudioDevice initialized.
+[2018.02.01-15.01.19:656][977]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-15.01.19:660][977]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-15.01.19
+[2018.02.01-15.01.19:661][977]LogWorld: Bringing up level for play took: 0.003867
+[2018.02.01-15.01.19:663][977]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.497
+[2018.02.01-15.01.19:663][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.03.37:741][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.03.37:772][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.03.43:763][222]LogEditorViewport: Clicking on Actor (LMB): BPHackingTerminal2_C (BPHackingTerminal2)
+[2018.02.01-15.04.13:744][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-15.04.13:845][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-15.04.28:501][714]BlueprintLog: New page: Compile BPSpawnEndLevel
+[2018.02.01-15.04.29:254][737]LogSavePackage: Save=83.48ms
+[2018.02.01-15.04.29:254][737]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/BPSpawnEndLevelC63A5C3F4054226F649B218325A7AFD7.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset'
+[2018.02.01-15.04.29:263][737]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/BPSpawnEndLevel.uasset
+[2018.02.01-15.04.31:312][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-15.04.31:330][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.04.31:330][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-15.04.31:330][924]PIE: New page: PIE session: TestMap (1 Feb 2018 15:04:31)
+[2018.02.01-15.04.31:330][924]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.01-15.04.31:347][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016600s)
+[2018.02.01-15.04.31:348][924]LogAIModule: Creating AISystem for world TestMap
+[2018.02.01-15.04.31:348][924]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.02.01-15.04.31:348][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.017546s)
+[2018.02.01-15.04.31:365][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-15.04.31:370][924]LogInit: FAudioDevice initialized.
+[2018.02.01-15.04.31:400][924]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.01-15.04.31:404][924]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.01-15.04.31
+[2018.02.01-15.04.31:404][924]LogWorld: Bringing up level for play took: 0.003931
+[2018.02.01-15.04.31:406][924]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.24
+[2018.02.01-15.04.31:406][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.07.05:629][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.07.05:663][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.01-15.07.12:129][954]LogSavePackage: Save=1539.83ms
+[2018.02.01-15.07.12:129][954]LogSavePackage: Moving 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMapA1A436B14C03B158D9D89B81CF23EF05.tmp' to 'F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap'
+[2018.02.01-15.07.12:141][954]LogSavePackage: Display: Finished SavePackage F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap
+[2018.02.01-15.07.12:170][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TestMap_BuiltData" FILE="F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2018.02.01-15.07.12:983][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:983][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:986][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:986][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:987][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:989][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:990][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:991][954]LogFileManager: Error: Error writing to file: F:/My Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap_BuiltDataFA53CE2F443C44AF58BF26A5BA3CAB87.tmp (There is not enough space on the disk.)
+[2018.02.01-15.07.12:991][954]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.02.01-15.07.21:842][954]LogWindows: Could not start CrashReportClient.exe
+[2018.02.01-15.07.21:842][954]LogMemory: Platform Memory Stats for Windows
+[2018.02.01-15.07.21:842][954]LogMemory: Process Physical Memory: 1817.55 MB used, 1817.55 MB peak
+[2018.02.01-15.07.21:842][954]LogMemory: Process Virtual Memory: 3052.52 MB used, 3320.86 MB peak
+[2018.02.01-15.07.21:842][954]LogMemory: Physical Memory: 8070.35 MB used,  24538.64 MB free, 32608.99 MB total
+[2018.02.01-15.07.21:842][954]LogMemory: Virtual Memory: 3710.57 MB used,  24538.64 MB free, 8388608.00 MB total
+[2018.02.01-15.07.21:842][954]LogWindows: Error: === Critical error: ===
+[2018.02.01-15.07.21:842][954]LogWindows: Error: 
+[2018.02.01-15.07.21:842][954]LogWindows: Error: Assertion failed: NewPosition <= FileSize [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformFile.cpp] [Line: 499] 
+[2018.02.01-15.07.21:842][954]LogWindows: Error: 
+[2018.02.01-15.07.21:842][954]LogWindows: Error: 
+[2018.02.01-15.07.21:842][954]LogWindows: Error: 
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000FD37A06D KERNELBASE.dll!UnknownFunction []
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000EF3B76D4 UE4Editor-ApplicationCore.dll!FWindowsErrorOutputDevice::Serialize() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowserroroutputdevice.cpp:65]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E32B330B UE4Editor-Core.dll!FOutputDevice::Logf__VA() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:70]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E32447F9 UE4Editor-Core.dll!FDebug::AssertFailed() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:414]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E34B0D14 UE4Editor-Core.dll!FFileHandleWindows::Seek() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\windows\windowsplatformfile.cpp:501]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E318D3D4 UE4Editor-Core.dll!FArchiveFileWriterGeneric::Seek() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\hal\filemanagergeneric.cpp:796]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E33595AE UE4Editor-Core.dll!FArchive::SerializeCompressed() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\serialization\archive.cpp:921]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E2C5083C UE4Editor-CoreUObject.dll!FUntypedBulkData::SerializeBulkData() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\coreuobject\private\serialization\bulkdata.cpp:1245]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000E2D87A5C UE4Editor-CoreUObject.dll!UPackage::Save() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\coreuobject\private\uobject\savepackage.cpp:5122]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000DCE7EB8D UE4Editor-UnrealEd.dll!UEditorEngine::Save() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:4220]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000DCE7F5E8 UE4Editor-UnrealEd.dll!UEditorEngine::SavePackage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:4281]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000DCEBB090 UE4Editor-UnrealEd.dll!UEditorEngine::Exec_Obj() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\editorserver.cpp:4408]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000DCEB7AE8 UE4Editor-UnrealEd.dll!UEditorEngine::Exec() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\editorserver.cpp:5503]
+[2018.02.01-15.07.21:842][954]LogWindows: Error: [Callstack] 0x00000000DD74BAC9 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Exec() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\unrealedsrv.cpp:672]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1B8CE0 UE4Editor-UnrealEd.dll!InternalSavePackage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:2715]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1E58CA UE4Editor-UnrealEd.dll!FEditorFileUtils::PromptForCheckoutAndSave() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:3333]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1FACDB UE4Editor-UnrealEd.dll!FEditorFileUtils::SaveMapDataPackages() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:2932]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1FBC45 UE4Editor-UnrealEd.dll!SaveWorld() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:595]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1FA715 UE4Editor-UnrealEd.dll!FEditorFileUtils::SaveLevel() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:2982]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DD1F9AF7 UE4Editor-UnrealEd.dll!FEditorFileUtils::SaveCurrentLevel() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\filehelpers.cpp:3106]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000D7F98CA7 UE4Editor-LevelEditor.dll!TBaseStaticDelegateInstance<void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:1027]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF6D7BBF UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:97]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF7DD3A2 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF7376D2 UE4Editor-Slate.dll!TMemberFunctionCaller<SToolBarButtonBlock,FReply (__cdecl SToolBarButtonBlock::*)(void) __ptr64>::operator()<>() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:165]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF738C29 UE4Editor-Slate.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SToolBarButtonBlock,FReply (__cdecl SToolBarButtonBlock::*)(void) __ptr64> >() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\templates\tuple.h:497]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF7B8C25 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF872B27 UE4Editor-Slate.dll!TBaseDelegate<FReply>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF89EA04 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:282]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF6B5EFC UE4Editor-Slate.dll!<lambda_1002768c627006711ef2f351a87ec0e7>::operator()() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5263]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF688095 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:234]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF7228A7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5252]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF70B092 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5750]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000DF6FD902 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5730]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000EF3AE54B UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1725]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000EF3A1A48 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2171]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000EF3B03EC UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:888]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000EF39D5A9 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:725]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000773A9BBD USER32.dll!UnknownFunction []
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000773A98C2 USER32.dll!UnknownFunction []
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000EF3B1516 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x000000003FAD50C8 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3220]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x000000003FAE5430 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x000000003FAE54AA UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x000000003FAF2379 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x000000003FAF3D57 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000774A59CD kernel32.dll!UnknownFunction []
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000775DA561 ntdll.dll!UnknownFunction []
+[2018.02.01-15.07.21:843][954]LogWindows: Error: [Callstack] 0x00000000775DA561 ntdll.dll!UnknownFunction []
+[2018.02.01-15.07.21:843][954]LogWindows: Error: 
+[2018.02.01-15.07.21:853][954]LogExit: Executing StaticShutdownAfterError
+[2018.02.01-15.07.21:855][954]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.02.01-15.07.21:855][954]Log file closed, 02/01/18 15:07:21
