@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 02/03/18 16:21:11
+=======
+﻿Log file open, 02/03/18 16:26:09
+>>>>>>> origin/joel
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +13,20 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ProjectEspionage
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(696464916) SRandInit(696464916).
+=======
+LogInit: Display: RandInit(1771858566) SRandInit(1771858566).
+>>>>>>> origin/joel
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.232348
+=======
+LogStats: Stats thread started at 0.235006
+>>>>>>> origin/joel
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,6 +208,7 @@ LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.02.03-16.21.13:048][  0]LogInit: Selected Device Profile: [Windows]
 [2018.02.03-16.21.13:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.02.03-16.21.13:061][  0]LogInit: Computer: DESKTOP-BCNSMO9
@@ -657,3 +670,725 @@ LogInit: Object subsystem initialized
 [2018.02.03-16.21.58:516][337]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.02.03-16.21.58:520][337]LogExit: Exiting.
 [2018.02.03-16.21.58:554][337]Log file closed, 02/03/18 16:21:58
+=======
+[2018.02.03-16.26.10:636][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.03-16.26.10:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.03-16.26.10:649][  0]LogInit: Computer: DESKTOP-BCNSMO9
+[2018.02.03-16.26.10:649][  0]LogInit: User: Joel
+[2018.02.03-16.26.10:649][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.02.03-16.26.10:649][  0]LogInit: High frequency timer resolution =3.613277 MHz
+[2018.02.03-16.26.10:649][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.03-16.26.10:649][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.03-16.26.10:649][  0]LogMemory: Process Physical Memory: 274.56 MB used, 274.56 MB peak
+[2018.02.03-16.26.10:649][  0]LogMemory: Process Virtual Memory: 270.09 MB used, 270.09 MB peak
+[2018.02.03-16.26.10:649][  0]LogMemory: Physical Memory: 5211.77 MB used,  11124.62 MB free, 16336.39 MB total
+[2018.02.03-16.26.10:649][  0]LogMemory: Virtual Memory: 682.89 MB used,  11124.62 MB free, 134217728.00 MB total
+[2018.02.03-16.26.10:765][  0]LogInit: Using OS detected language (en-US).
+[2018.02.03-16.26.10:765][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.03-16.26.10:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.03-16.26.11:219][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.03-16.26.11:451][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.03-16.26.11:507][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.02.03-16.26.11:507][  0]LogD3D11RHI:       2997/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.03-16.26.11:509][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.03-16.26.11:509][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.03-16.26.11:509][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.03-16.26.11:516][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.03-16.26.11:516][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.03-16.26.11:516][  0]LogWindows: EnumDisplayDevices:
+[2018.02.03-16.26.11:517][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.02.03-16.26.11:517][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.02.03-16.26.11:517][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.02.03-16.26.11:517][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.02.03-16.26.11:517][  0]LogWindows:    4. 'LMIMIRR' (P:0 D:0)
+[2018.02.03-16.26.11:517][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.03-16.26.11:517][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.02.03-16.26.11:517][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.03-16.26.11:517][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.03-16.26.11:517][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2018.02.03-16.26.11:548][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.03-16.26.12:129][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.03-16.26.12:130][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Intermediate/Shaders/WorkingDirectory/440/).
+[2018.02.03-16.26.12:130][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joel/AppData/Local/Temp/UnrealShaderWorkingDir/EC414C4547F1AB8DBA34BC8EF6C813D9/'.
+[2018.02.03-16.26.12:130][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.03-16.26.13:089][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.03-16.26.13:133][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.03-16.26.13:178][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.03-16.26.13:224][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.03-16.26.13:268][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.03-16.26.13:313][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.03-16.26.13:358][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.03-16.26.13:403][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.03-16.26.13:440][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.03-16.26.13:483][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.03-16.26.13:528][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.03-16.26.13:571][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.03-16.26.13:615][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.03-16.26.13:660][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.03-16.26.13:748][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.03-16.26.13:748][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.03-16.26.13:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.03-16.26.13:823][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.03-16.26.13:901][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.03-16.26.13:929][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.03-16.26.13:975][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.03-16.26.14:022][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.03-16.26.14:069][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.03-16.26.14:116][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.03-16.26.14:116][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.03-16.26.14:495][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Joel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Joel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.03-16.26.14:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.03-16.26.14:594][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.03-16.26.14:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.03-16.26.14:617][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.03-16.26.14:617][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.03-16.26.14:618][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.03-16.26.14:618][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.03-16.26.15:026][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.03-16.26.15:306][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.03-16.26.15:339][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.03-16.26.15:340][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.03-16.26.15:340][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.03-16.26.15:340][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.03-16.26.15:340][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.03-16.26.15:366][  0]LogNetVersion: ProjectEspionage , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 40603988)
+[2018.02.03-16.26.15:513][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.02.03-16.26.15:952][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.053859 seconds
+[2018.02.03-16.26.15:958][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.03-16.26.15:958][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.03-16.26.15:958][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.03-16.26.15:999][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.03-16.26.18:307][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.03-16.26.18:342][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.03-16.26.18:919][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.03-16.26.19:277][  0]SourceControl: Source control is disabled
+[2018.02.03-16.26.19:277][  0]SourceControl: Source control is disabled
+[2018.02.03-16.26.19:320][  0]SourceControl: Source control is disabled
+[2018.02.03-16.26.19:364][  0]SourceControl: Source control is disabled
+[2018.02.03-16.26.20:049][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.03-16.26.20:278][  0]LogOcInput: OculusInput pre-init called
+[2018.02.03-16.26.20:525][  0]LogEngine: Initializing Engine...
+[2018.02.03-16.26.20:527][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.03-16.26.20:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.03-16.26.20:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.03-16.26.20:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.03-16.26.20:842][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.26.20:853][  0]LogInit: FAudioDevice initialized.
+[2018.02.03-16.26.20:975][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Joel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.03-16.26.20:989][  0]LogInit: Texture streaming: Enabled
+[2018.02.03-16.26.21:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.03-16.26.21:164][  0]LogInit: Transaction tracking system initialized
+[2018.02.03-16.26.21:417][  0]BlueprintLog: New page: Editor Load
+[2018.02.03-16.26.22:103][  0]LocalizationService: Localization service is disabled
+[2018.02.03-16.26.22:689][  0]LogConsoleResponse: Display: 
+[2018.02.03-16.26.22:826][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.03-16.26.22:826][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.03-16.26.22:827][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.03-16.26.23:779][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' took 0.01s
+[2018.02.03-16.26.23:818][  0]SourceControl: Source control is disabled
+[2018.02.03-16.26.23:818][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.03-16.26.23:818][  0]LightingResults: New page: Lighting Build
+[2018.02.03-16.26.23:852][  0]MapCheck: New page: Map Check
+[2018.02.03-16.26.23:852][  0]LightingResults: New page: Lighting Build
+[2018.02.03-16.26.24:095][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.03-16.26.24:095][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.03-16.26.24:095][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.03-16.26.24:101][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.03-16.26.24:101][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.02.03-16.26.24:101][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.02.03-16.26.24:103][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.03-16.26.24:103][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.03-16.26.24:104][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.03-16.26.24:104][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.03-16.26.24:114][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.02.03-16.26.24:114][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.03-16.26.24:114][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.02.03-16.26.24:114][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.03-16.26.24:293][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.03-16.26.24:302][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.03-16.26.24:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.03-16.26.24:365][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.661ms to complete.
+[2018.02.03-16.26.24:365][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.547
+[2018.02.03-16.26.24:419][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.03-16.26.24:497][  0]LogCollectionManager: Loaded 0 collections in 0.001105 seconds
+[2018.02.03-16.26.24:570][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/' took 0.01s
+[2018.02.03-16.26.24:570][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/Joel/Collections/' took 0.01s
+[2018.02.03-16.26.24:570][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/' took 0.01s
+[2018.02.03-16.26.24:570][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.03-16.26.24:581][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2363 classes and 519 folders.
+[2018.02.03-16.26.24:634][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.03-16.26.24:674][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.03-16.26.24:711][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.03-16.26.24:729][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.03-16.26.24:732][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.03-16.26.24:736][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.03-16.26.24:827][  0]LogRenderer: Reallocating scene render targets to support 1052x500 Format 9 NumSamples 1 (Frame:1).
+[2018.02.03-16.26.25:405][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.03-16.26.25:405][  0]LogLoad: (Engine Initialization) Total time: 16.85 seconds
+[2018.02.03-16.26.25:405][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.03-16.26.25:406][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.03-16.26.25:433][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.02.03-16.26.25:492][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-16.26.25:517][  1]LogAssetRegistry: Asset discovery search completed in 10.0257 seconds
+[2018.02.03-16.26.25:519][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.03-16.26.25:519][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.02.03-16.26.29:511][ 22]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-16.26.29:983][ 22]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.26.30:028][ 22]Cmd: MAP LOAD FILE="../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.03-16.26.30:028][ 22]LightingResults: New page: Lighting Build
+[2018.02.03-16.26.30:029][ 22]LoadErrors: New page: Loading map: TestMap.umap
+[2018.02.03-16.26.30:030][ 22]MapCheck: New page: Map Check
+[2018.02.03-16.26.30:030][ 22]LightingResults: New page: Lighting Build
+[2018.02.03-16.26.30:059][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.03-16.26.30:101][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.03-16.26.30:152][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.828ms to complete.
+[2018.02.03-16.26.30:152][ 22]LogFileHelpers: Loading map 'TestMap' took 0.124
+[2018.02.03-16.26.31:553][ 58]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall59)
+[2018.02.03-16.26.36:116][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.02.03-16.26.47:348][246]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.02.03-16.26.48:050][246]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.03-16.26.48:110][246]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.03-16.26.48:213][248]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.03-16.26.50:553][389]LogRenderer: Reallocating scene render targets to support 1052x528 Format 9 NumSamples 1 (Frame:1).
+[2018.02.03-16.31.48:631][601]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.32.25:153][304]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.32.26:428][312]LogSavePackage: Save=41.35ms
+[2018.02.03-16.32.26:428][312]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoorE7F9A9264773BF5CE386898DB9420ABA.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.32.26:432][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.33.39:699][591]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.33.40:501][595]LogSavePackage: Save=38.34ms
+[2018.02.03-16.33.40:501][595]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoorF3D6FC404E3B3E71808E0C8402B824AE.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.33.40:503][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.33.46:155][ 99]Cmd: DELETE
+[2018.02.03-16.33.46:156][ 99]Cmd: ACTOR DELETE
+[2018.02.03-16.33.46:160][ 99]LogEditorActor: Deleted Actor: AutoDoor_C
+[2018.02.03-16.33.46:183][ 99]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.02.03-16.34.07:246][998]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.34.07:348][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.34.07:348][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.34.07:349][998]PIE: New page: PIE session: TestMap (3 Feb 2018 16:34:07)
+[2018.02.03-16.34.07:349][998]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.34.07:370][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021222s)
+[2018.02.03-16.34.07:371][998]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.34.07:371][998]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.02.03-16.34.07:371][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.022552s)
+[2018.02.03-16.34.07:402][998]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.34.07:408][998]LogInit: FAudioDevice initialized.
+[2018.02.03-16.34.07:449][998]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.34.07:455][998]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.34.07
+[2018.02.03-16.34.07:456][998]LogWorld: Bringing up level for play took: 0.005096
+[2018.02.03-16.34.07:492][998]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.03-16.34.07:494][998]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.383
+[2018.02.03-16.34.07:495][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.34.30:366][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.34.30:404][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.38.51:661][805]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.38.51:678][805]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.38.51:678][805]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.38.52:370][805]LogBlueprint: Warning: [Compiler AutoDoor] [0763.82] Compile of AutoDoor successful, but with 2 Warning(s) [in 709 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.39.20:736][932]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-16.39.36:856][466]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.39.36:893][466]LogBlueprint: Error: [Compiler AutoDoor] The type of  Object  is undetermined.  Connect something to  Cast To PlayerController  to imply a specific type.
+[2018.02.03-16.39.36:893][466]LogBlueprint: Error: [Compiler AutoDoor] The type of  Object  is undetermined.  Connect something to  Cast To PlayerController  to imply a specific type.
+[2018.02.03-16.39.36:894][466]LogBlueprint: Error: [Compiler AutoDoor] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.03-16.39.36:894][466]LogBlueprint: Error: [Compiler AutoDoor] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.03-16.39.37:056][466]LogBlueprint: Warning: [Compiler AutoDoor] [0808.51] Compile of AutoDoor failed. 4 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.39.50:093][109]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.39.50:110][109]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.39.50:110][109]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.39.50:258][109]LogBlueprint: Warning: [Compiler AutoDoor] [0821.71] Compile of AutoDoor successful, but with 2 Warning(s) [in 164 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.39.52:733][308]LogEditorTransaction: Undo Create Pin Link
+[2018.02.03-16.39.53:048][323]LogEditorTransaction: Undo Create Pin Link
+[2018.02.03-16.39.53:200][327]LogEditorTransaction: Undo Create Pin Link
+[2018.02.03-16.39.53:404][337]LogEditorTransaction: Undo Create Pin Link
+[2018.02.03-16.39.53:757][359]LogEditorTransaction: Undo Break Pin Link
+[2018.02.03-16.39.54:254][391]LogEditorTransaction: Undo Break Pin Link
+[2018.02.03-16.40.25:046][459]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.40.29:969][612]LogSavePackage: Save=45.19ms
+[2018.02.03-16.40.29:969][612]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor614B48324B8A958C0007BA9D77ABF1DB.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.40.29:971][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.40.53:634][527]LogEditorTransaction: Undo Move Node
+[2018.02.03-16.40.54:150][547]LogEditorTransaction: Undo Delete current selection
+[2018.02.03-16.41.20:760][688]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.41.21:714][690]LogSavePackage: Save=46.66ms
+[2018.02.03-16.41.21:715][690]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor1241240A4AF0492BF7F091B573AA4F74.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.41.21:717][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.41.24:320][773]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.41.24:343][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.24:343][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.41.24:343][773]PIE: New page: PIE session: TestMap (3 Feb 2018 16:41:24)
+[2018.02.03-16.41.24:343][773]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.41.24:367][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023739s)
+[2018.02.03-16.41.24:368][773]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.41.24:368][773]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2018.02.03-16.41.24:368][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.025062s)
+[2018.02.03-16.41.24:397][773]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.41.24:403][773]LogInit: FAudioDevice initialized.
+[2018.02.03-16.41.24:435][773]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.41.24:441][773]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.41.24
+[2018.02.03-16.41.24:441][773]LogWorld: Bringing up level for play took: 0.005209
+[2018.02.03-16.41.24:444][773]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap -0.667
+[2018.02.03-16.41.24:444][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.29:852][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.29:889][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.38:131][838]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.41.38:148][838]LogBlueprint: Error: [Compiler AutoDoor] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2018.02.03-16.41.38:291][838]LogBlueprint: Warning: [Compiler AutoDoor] [0929.74] Compile of AutoDoor failed. 1 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.41.42:230][130]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.41.42:815][156]LogSavePackage: Save=45.76ms
+[2018.02.03-16.41.42:815][156]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoorAAC8947149F7EB7D53576F8606D2C8B0.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.41.42:817][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.41.43:940][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.41.43:963][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.43:964][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.41.43:964][271]PIE: New page: PIE session: TestMap (3 Feb 2018 16:41:43)
+[2018.02.03-16.41.43:964][271]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.41.43:984][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020452s)
+[2018.02.03-16.41.43:985][271]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.41.43:985][271]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.02.03-16.41.43:985][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.021581s)
+[2018.02.03-16.41.44:014][271]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.41.44:020][271]LogInit: FAudioDevice initialized.
+[2018.02.03-16.41.44:049][271]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.41.44:055][271]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.41.44
+[2018.02.03-16.41.44:055][271]LogWorld: Bringing up level for play took: 0.005282
+[2018.02.03-16.41.44:057][271]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.946
+[2018.02.03-16.41.44:058][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.47:720][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.41.47:756][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.42.41:747][991]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.42.41:764][991]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Box Collision' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.42.41:764][991]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Box Collision' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.42.42:439][991]LogBlueprint: Warning: [Compiler AutoDoor] [0993.89] Compile of AutoDoor successful, but with 2 Warning(s) [in 692 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.43.12:894][591]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.43.12:909][591]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Auto Door' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.43.12:909][591]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Auto Door' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.43.13:598][591]LogBlueprint: Warning: [Compiler AutoDoor] [1025.05] Compile of AutoDoor successful, but with 2 Warning(s) [in 703 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.43.17:465][790]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.43.17:482][790]LogBlueprint: Error: [Compiler AutoDoor] The type of  Object  is undetermined.  Connect something to  Cast To PlayerController  to imply a specific type.
+[2018.02.03-16.43.17:482][790]LogBlueprint: Error: [Compiler AutoDoor] The type of  Object  is undetermined.  Connect something to  Cast To PlayerController  to imply a specific type.
+[2018.02.03-16.43.17:482][790]LogBlueprint: Error: [Compiler AutoDoor] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.03-16.43.17:483][790]LogBlueprint: Error: [Compiler AutoDoor] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.02.03-16.43.17:625][790]LogBlueprint: Warning: [Compiler AutoDoor] [1029.07] Compile of AutoDoor failed. 4 Fatal Issue(s) 0 Warning(s) [in 159 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.43.48:360][936]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.43.48:377][936]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.43.48:377][936]LogBlueprint: Warning: [Compiler AutoDoor] 'Player Controller' does not inherit from 'Primitive Component' ( Cast To PlayerController  would always fail).
+[2018.02.03-16.43.48:524][936]LogBlueprint: Warning: [Compiler AutoDoor] [1059.97] Compile of AutoDoor successful, but with 2 Warning(s) [in 163 ms] (/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor)
+[2018.02.03-16.43.49:046][949]LogSavePackage: Save=44.97ms
+[2018.02.03-16.43.49:046][949]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor4819DB4B48A17C888B9723AD883EC022.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.43.49:048][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.44.51:132][ 48]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.45.04:130][852]LogSavePackage: Save=46.50ms
+[2018.02.03-16.45.04:130][852]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor9F06802745116773ECDAD1B3208F8A25.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.45.04:132][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.45.05:709][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.45.05:732][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.45.05:732][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.45.05:733][965]PIE: New page: PIE session: TestMap (3 Feb 2018 16:45:05)
+[2018.02.03-16.45.05:733][965]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.45.05:763][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029631s)
+[2018.02.03-16.45.05:763][965]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.45.05:763][965]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2018.02.03-16.45.05:764][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.030690s)
+[2018.02.03-16.45.05:792][965]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.45.05:798][965]LogInit: FAudioDevice initialized.
+[2018.02.03-16.45.05:829][965]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.45.05:834][965]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.45.05
+[2018.02.03-16.45.05:834][965]LogWorld: Bringing up level for play took: 0.005218
+[2018.02.03-16.45.05:837][965]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.725
+[2018.02.03-16.45.05:837][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.45.09:857][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.45.09:891][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.46.25:173][609]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.46.26:316][627]LogSavePackage: Save=38.60ms
+[2018.02.03-16.46.26:316][627]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoorACDCA8664DC7A0C0D29DD193FE19ABA8.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.46.26:318][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.46.29:944][904]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.46.29:966][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.46.29:966][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.46.29:966][904]PIE: New page: PIE session: TestMap (3 Feb 2018 16:46:29)
+[2018.02.03-16.46.29:966][904]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.46.29:988][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021878s)
+[2018.02.03-16.46.29:989][904]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.46.29:989][904]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2018.02.03-16.46.29:990][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.023274s)
+[2018.02.03-16.46.30:018][904]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.46.30:024][904]LogInit: FAudioDevice initialized.
+[2018.02.03-16.46.30:057][904]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.46.30:062][904]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.46.30
+[2018.02.03-16.46.30:062][904]LogWorld: Bringing up level for play took: 0.004911
+[2018.02.03-16.46.30:065][904]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.954
+[2018.02.03-16.46.30:065][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.46.34:140][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.46.34:179][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.47.02:160][965]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.47.03:302][978]LogSavePackage: Save=42.24ms
+[2018.02.03-16.47.03:302][978]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor7B5681E843909CBCF2A3EBA857747BDE.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.47.03:303][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.47.08:307][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.47.08:330][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.47.08:330][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.47.08:330][257]PIE: New page: PIE session: TestMap (3 Feb 2018 16:47:08)
+[2018.02.03-16.47.08:330][257]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.47.08:352][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021343s)
+[2018.02.03-16.47.08:353][257]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.47.08:353][257]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.02.03-16.47.08:353][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.022607s)
+[2018.02.03-16.47.08:383][257]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.47.08:389][257]LogInit: FAudioDevice initialized.
+[2018.02.03-16.47.08:424][257]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.47.08:429][257]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.47.08
+[2018.02.03-16.47.08:429][257]LogWorld: Bringing up level for play took: 0.004978
+[2018.02.03-16.47.08:431][257]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap -0.68
+[2018.02.03-16.47.08:432][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.47.18:105][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.47.18:139][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.48.27:223][798]BlueprintLog: New page: Compile AutoDoor
+[2018.02.03-16.48.31:347][951]LogSavePackage: Save=45.38ms
+[2018.02.03-16.48.31:347][951]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoorD5718BD74D21304ECD0F9CA032F75920.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.48.31:349][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.48.33:063][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.03-16.48.33:086][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.48.33:087][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.03-16.48.33:087][ 47]PIE: New page: PIE session: TestMap (3 Feb 2018 16:48:33)
+[2018.02.03-16.48.33:087][ 47]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TestMap
+[2018.02.03-16.48.33:107][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020386s)
+[2018.02.03-16.48.33:108][ 47]LogAIModule: Creating AISystem for world TestMap
+[2018.02.03-16.48.33:109][ 47]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.02.03-16.48.33:109][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TestMap.TestMap to /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap (0.021598s)
+[2018.02.03-16.48.33:138][ 47]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-16.48.33:145][ 47]LogInit: FAudioDevice initialized.
+[2018.02.03-16.48.33:176][ 47]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.03-16.48.33:181][ 47]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.03-16.48.33
+[2018.02.03-16.48.33:182][ 47]LogWorld: Bringing up level for play took: 0.005163
+[2018.02.03-16.48.33:184][ 47]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TestMap 0.073
+[2018.02.03-16.48.33:185][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.48.37:408][546]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:650][575]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:659][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:675][578]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:684][579]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:700][581]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.37:708][582]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.40:384][903]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.40:401][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.40:409][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.41:384][ 23]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.41:518][ 39]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.42:624][169]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.43:633][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.44:859][437]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.45:517][516]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.49:217][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/TopDownBP/Blueprints/AutoDoor.AutoDoor_C:ExecuteUbergraph_AutoDoor'!
+[2018.02.03-16.48.50:027][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.48.50:065][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TopDownBP/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.03-16.49.54:219][198]LogSavePackage: Save=38.15ms
+[2018.02.03-16.49.54:219][198]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/AutoDoor42B2A7F94DC1CA9C1AE9FCAADCE29F4C.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset'
+[2018.02.03-16.49.54:221][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Blueprints/AutoDoor.uasset
+[2018.02.03-16.50.15:341][219]LogSavePackage: Save=372.36ms
+[2018.02.03-16.50.15:341][219]LogSavePackage: Moving '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/TestMap4CB9B2C64968CC912E60378EE61DF070.tmp' to '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap'
+[2018.02.03-16.50.15:343][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/TopDownBP/Maps/TestMap.umap
+[2018.02.03-16.50.15:371][219]LogFileHelpers: Saving map 'TestMap' took 0.498
+[2018.02.03-16.50.15:441][219]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.03-16.50.15:622][220]Cmd: QUIT_EDITOR
+[2018.02.03-16.50.16:017][220]LogExit: Preparing to exit.
+[2018.02.03-16.50.16:974][220]LogDirectoryWatcher: A directory notification for 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' was aborted.
+[2018.02.03-16.50.17:011][220]LogExit: Editor shut down
+[2018.02.03-16.50.17:015][220]LogExit: Transaction tracking system shut down
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.03-16.50.17:121][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.03-16.50.17:202][220]LogExit: Object subsystem successfully closed.
+[2018.02.03-16.50.17:219][220]LogD3D11RHI: Shutdown
+[2018.02.03-16.50.17:219][220]LogD3D11RHI: CleanupD3DDevice
+[2018.02.03-16.50.17:221][220]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.03-16.50.17:230][220]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.02.03-16.50.17:230][220]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.02.03-16.50.17:230][220]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.03-16.50.17:230][220]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.03-16.50.17:230][220]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.03-16.50.17:230][220]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.03-16.50.17:231][220]LogDirectoryWatcher: A directory notification for 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Collections/' was aborted.
+[2018.02.03-16.50.17:231][220]LogDirectoryWatcher: A directory notification for 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Content/Developers/Joel/Collections/' was aborted.
+[2018.02.03-16.50.17:231][220]LogDirectoryWatcher: A directory notification for 'D:/Users/Joel/Documents/Unreal Projects/Group-D-Ass2-Game/ProjectEspionage/Saved/Collections/' was aborted.
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.03-16.50.17:231][220]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.03-16.50.17:232][220]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.03-16.50.17:990][220]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.03-16.50.18:052][220]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.03-16.50.18:053][220]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.03-16.50.18:053][220]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.03-16.50.18:053][220]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.03-16.50.18:062][220]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.03-16.50.18:063][220]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.03-16.50.18:063][220]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.03-16.50.18:063][220]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.03-16.50.18:064][220]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.03-16.50.18:256][220]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.03-16.50.18:257][220]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.03-16.50.18:258][220]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.03-16.50.18:359][220]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.03-16.50.18:459][220]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.03-16.50.18:460][220]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.03-16.50.18:460][220]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.03-16.50.18:460][220]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.03-16.50.18:460][220]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.03-16.50.18:462][220]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.03-16.50.18:468][220]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.03-16.50.18:470][220]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.03-16.50.18:471][220]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.03-16.50.18:571][220]LogDerivedDataCache: Shutdown
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.03-16.50.18:571][220]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.03-16.50.18:572][220]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.03-16.50.18:572][220]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.03-16.50.18:572][220]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B759C790B-4373-8227-B334-85854721DD39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=153d2e1b42ca705caa96429d52466c93%7C45b2806216094717846b8856ff9120a1%7C07825152-8179-4e86-9283-88fe819626c1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.03-16.50.18:584][220]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.03-16.50.18:585][220]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.03-16.50.18:586][220]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.03-16.50.18:587][220]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.03-16.50.18:587][220]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.03-16.50.18:587][220]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.03-16.50.18:587][220]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.03-16.50.18:591][220]LogExit: Exiting.
+[2018.02.03-16.50.18:603][220]Log file closed, 02/03/18 16:50:18
+>>>>>>> origin/joel
